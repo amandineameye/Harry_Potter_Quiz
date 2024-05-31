@@ -1,0 +1,182 @@
+[
+  {
+    "number": 1,
+    "question": "Lequel de ces personnages n'est pas un Animagus ?",
+    "options": [
+      "James Potter",
+      "Peter Pettigrew",
+      "Professeur McGonagall",
+      "Remus Lupin"
+    ],
+    "answer": "option4"
+  },
+
+  {
+    "number": 2,
+    "question": "Qui garde l'entrée de la salle commune de Gryffondor ?",
+    "options": [
+      "La Dame Grise",
+      "Le Moine Gras",
+      "Le Baron Sanglant",
+      "La Grosse Dame"
+    ],
+    "answer": "option4"
+  },
+  {
+    "number": 3,
+    "question": "Que dit-on pour fermer la Carte du Maraudeur et la rendre vierge à nouveau ?",
+    "options": [
+      "Méfait Clos",
+      "Méfait Fini",
+      "Méfait Accompli",
+      "Méfait Conclu"
+    ],
+    "answer": "option3"
+  },
+   {
+    "number": 4,
+    "question": "Qui vole les lettres de Ron et Hermione destinées à Harry au début de \"Harry Potter et la Chambre des Secrets\" ?",
+    "options": ["Dumbledore", "Draco Malfoy", "Les Dursley", "Dobby"],
+    "answer": "option4"
+  },
+  {
+    "number": 5,
+    "question": "Où Harry et Ron trouvent-ils finalement la Ford Anglia volante disparue ?",
+    "options": [
+      "Au Ministère de la Magie",
+      "Devant la Maison des Weasley",
+      "Dans la forêt interdite",
+      "Devant la Maison des Dursley"
+    ],
+    "answer": "option3"
+  },
+  {
+    "number": 6,
+    "question": "Comment s'appelle la chatte de Rusard ?",
+    "options": ["Miss Teigne", "Miss Terre", "Miss Souris", "Miss Take"],
+    "answer": "option1"
+  },
+  {
+    "number": 7,
+    "question": "Quel professeur enseigne les leçons de vol ?",
+    "options": [
+      "Cuthebert Binns",
+      "Renée Bibine",
+      "Sybill Trelawney",
+      "Charity Burbage"
+    ],
+    "answer": "option2"
+  },
+  {
+    "number": 8,
+    "question": "Qui a donné à Harry la cape d'invisibilité ?",
+    "options": ["Professeur McGonagall", "Sirius Black", "Dumbledore", "Dobby"],
+    "answer": "option3"
+  },
+  {
+    "number": 9,
+    "question": "Comment Harry parvient-il à respirer sous l'eau lors de la deuxième épreuve du Tournoi des Trois Sorciers ?",
+    "options": [
+      "Il se métamorphose en requin",
+      "Il embrasse une sirène",
+      "Il exécute un sortilège de Têtenbulle",
+      "Il mange de la Branchiflore"
+    ],
+    "answer": "option4"
+  },
+
+  {
+    "number": 10,
+    "question": "Lequel de ces sorts n'est PAS l'un des sortilèges impardonnables ?",
+    "options": ["Endoloris", "Sectumsempra", "Impero", "Avada Kedavra"],
+    "answer": "option2"
+  },
+  {
+    "number": 11,
+    "question": "Où Hermione prépare-t-elle son premier lot de Potion Polynectar ?",
+    "options": [
+      "La Cuisine de Poudlard",
+      "La Salle sur Demande",
+      "La Salle Commune de Gryffondor",
+      "Les Toilettes de Mimi Geignarde"
+    ],
+    "answer": "option4"
+  },
+  {
+    "number": 12,
+    "question": "Combien de frères et sœurs Weasley y a-t-il ?",
+    "options": ["7", "5", "10", "3"],
+    "answer": "option1"
+  },
+  {
+    "number": 13,
+    "question": "Pour qui Harry avait-il un faible avant Ginny Weasley ?",
+    "options": [
+      "Fleur Delacour",
+      "Luna Lovegood",
+      "Cho Chang",
+      "Hermione Granger"
+    ],
+    "answer": "option3"
+  },
+
+  {
+    "number": 14,
+    "question": "Qui ne fait PAS partie de l'Ordre du Phénix ?",
+    "options": [
+      "Alastor Maugrey, dit 'Fol-Œil'",
+      "Professeur Rogue",
+      "Remus Lupin",
+      "Cornelius Fudge"
+    ],
+    "answer": "option4"
+  },
+  {
+    "number": 15,
+    "question": "Un sorcier qui ne peut pas faire de magie est connu sous le nom de :",
+    "options": ["Né-Moldu", "Moldu", "Cracmol", "Sang-De-Bourbe"],
+    "answer": "option3"
+  },
+  {
+    "number": 16,
+    "question": "Lequel de ces personnages n'a jamais été Mangemort ?",
+    "options": [
+      "Peter Pettigrew",
+      "Horace Slughorn",
+      "Severus Rogue",
+      "Lucius Malfoy"
+    ],
+    "answer": "option2"
+  },
+
+  {
+    "number": 17,
+    "question": "Comment s'appelle le phénix de Dumbledore ?",
+    "options": ["Fimseck", "Fimouillé", "Fumseck", "Fumouillé"],
+    "answer": "option3"
+  },
+  {
+    "number": 18,
+    "question": "Quel personnage est tué par le basilic ?",
+    "options": [
+      "Mimi Geignarde",
+      "Ginny Weasley",
+      "Nick Quasi-sans-Tête",
+      "Colin Creevey"
+    ],
+    "answer": "option1"
+  },
+
+  {
+    "number": 19,
+    "question": "Quel est le nom du chien qui garde la Pierre Philosophale ?",
+    "options": ["Crockdur", "Norbert", "Touffu", "Buck"],
+    "answer": "option3"
+  },
+  {
+    "number": 20,
+    "question": "En combien de morceaux Voldemort divise-t-il son âme, en incluant lui-même ?",
+    "options": ["Sept", "Dix", "Trois", "Huit"],
+    "answer": "option4"
+  }
+]

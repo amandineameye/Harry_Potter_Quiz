@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Le Quiz du Sorcier</title>
+    <link rel="shortcut icon" href="./images/favicon.png" type="image/x-icon" />
+    <link rel="stylesheet" href="style.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Sedan&display=swap"
+      rel="stylesheet"
+    />
+    <script defer src="./script.js"></script>
+  </head>
+  <body>
+    <section class="nav-section">
+      <div class="speaker-container">
+        <img
+          src="./images/en-sourdine.png"
+          alt="speaker"
+          id="speaker"
+        />
+      </div>
+      <p>Le Quiz du Sorcier</p>
+    </section>
+    <section class="main-section" id="main-section">
+      <div class="modal" id="modal">
+        <div class="modal-container">
+          <img
+            src="./images/choixpeau.png"
+            alt="image du choixpeau"
+            id="choixpeau"
+          />
+          <p id="modal-text">
+            Choisissez votre maison ou laissez le Choixpeau décider de votre
+            sort
+          </p>
+          <div class="houses-container">
+            <img
+              src="./images/ravenclaw.png"
+              alt="emblème de Serdaigle"
+              id="Serdaigle"
+            />
+            <img
+              src="./images/slytherin.png"
+              alt="emblème de Serpentard"
+              id="Serpentard"
+            />
+            <img
+              src="./images/griffindor.png"
+              alt="emblème de Gryffondor"
+              id="Gryffondor"
+            />
+            <img
+              src="./images/hufflepuff.png"
+              alt="emblème de Poufsouffle"
+              id="Poufsouffle"
+            />
+          </div>
+        </div>
+      </div>
+      <div class="quiz-container hidden" id="quiz-container">
+        <h1>Question <span id="number"></span>/20</h1>
+        <div class="text-container">
+          <div class="question-container">
+            <p class="question" id="question"></p>
+          </div>
+          <div class="options-container">
+            <div class="options">
+              <input type="radio" name="option" value="option1" />
+              <label for="option1" id="option1"></label><br />
+              <input type="radio" name="option" value="option2" />
+              <label for="option2" id="option2"></label><br />
+              <input type="radio" name="option" value="option3" />
+              <label for="option3" id="option3"></label><br />
+              <input type="radio" name="option" value="option4" />
+              <label for="option4" id="option4"></label><br />
+            </div>
+          </div>
+        </div>
+        <div class="next-container">
+          <button id="next-button">Next</button>
+        </div>
+      </div>
+      <div class="score-container hidden" id="score-container">
+        <div class="image-container">
+          <img
+            src="./images/Dumbledore.png"
+            alt="Dumbledore"
+            id="Dumbledore"
+          />
+        </div>
+        <div class="results-container">
+        <h1>Score</h1>
+          <p id="score-text"></p>
+          <img src="./images/restart.png" alt="restart" id="restart" />
+        </div>
+      </div>
+    </section>
+    <section class="footer-section">
+      <div class="copyright-container">
+        <p>©</p>
+        <p>2024</p>
+        <p>Amandine Ameye</p>
+      </div>
+    </section>
+  </body>
+</html>
